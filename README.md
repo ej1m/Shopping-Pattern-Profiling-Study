@@ -13,6 +13,9 @@ Approach
 4.	Visualize.
 
 Analysis Summary
+
 Target group will be cluster 1. These customers have a high spending score and a high income.
+
 60% of cluster 1 customers are women. We should look for ways to attract these customers using a marketing campaign targeting popular products in this cluster.
+
 Cluster 3 presents an interesting opportunity to market to the customers for sales events on popular items.
