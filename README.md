@@ -1,7 +1,9 @@
 KMeans clustering – Shopping customer segmentation
 
 Problem statement – Understand the target customers for the marketing team to plan a strategy.
+
 Context – You are tasked with identifying the most important shopping groups based on both their income and mall shopping score.
+
 Objective - Create subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities.
 
 Approach
