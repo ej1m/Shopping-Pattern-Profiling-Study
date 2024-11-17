@@ -1,21 +1,12 @@
-KMeans clustering – Shopping customer segmentation
+This project focuses on analyzing customer shopping behavior and income patterns to optimize marketing strategies for a mall. It aims to deliver actionable insights for the marketing team to develop targeted campaigns for specific customer segments.
 
-Problem statement – Understand the target customers for the marketing team to plan a strategy.
+The analysis uses clustering algorithms to segment customers based on their income levels and shopping scores, creating distinct customer groups with the aim of providing a data-driven foundation for marketing decision-making and resource allocation.
 
-Context – You are tasked with identifying the most important shopping groups based on both their income and mall shopping score.
+Through exploratory data analysis (EDA), the project examines customer demographics and behavioral patterns to identify meaningful trends. Statistical analysis and visualization techniques are employed to understand and represent different customer segments clearly.
 
-Objective - Create subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities.
+Machine learning clustering techniques are used to create and validate customer segments for targeted marketing approaches.
 
-Approach
-1.	Perform quick exploratory data analysis.
-2.	Develop the clustering algorithm to create segments.
-3.	Use summary statistics on the cluster.
-4.	Visualize.
+The primary target identified (Cluster 1) consists of high-income customers with strong spending patterns, with 60% being female customers.
+A secondary opportunity was identified in Cluster 3, specifically for sales event marketing strategies.
 
-Analysis Summary
-
-Target group will be cluster 1. These customers have a high spending score and a high income.
-
-60% of cluster 1 customers are women. We should look for ways to attract these customers using a marketing campaign targeting popular products in this cluster.
-
-Cluster 3 presents an interesting opportunity to market to the customers for sales events on popular items.
+Recommendations include developing gender-specific marketing campaigns and sales events tailored to different customer segments' characteristics.
